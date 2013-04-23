@@ -1,4 +1,4 @@
-ublic class RandomNumberMain {
+public class RandomNumberMain {
   public static void main ( String [] args)
   {
   	RandomNumber myRandom = new RandomNumber();
